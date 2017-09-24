@@ -1,0 +1,15 @@
+{
+  "name": "node-streaming-practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "file_text": "node --experimental-modules ./src/file/text.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JimmyJhang",
+  "license": "ISC",
+  "engines": {
+    "node": "8.5.0"
+  }
+}
